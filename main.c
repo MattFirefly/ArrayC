@@ -5,7 +5,7 @@
 
 int main() {
     int32_t len = 10;
-    int32_t arr[len];//这种初始化将会有值 所以需要先清空
+    int32_t arr[len];//这种初始化将会有值 所以需要先清空 测试
     int32_t i;
     int32_t j;
     for (j = 0; j < len; ++j) {
